@@ -1,4 +1,4 @@
-# QA Portfolio - Luis Henrique Santos
+# QA Portfolio - Luis Henrique dos Santos
 
 ## About Me
 
