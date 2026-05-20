@@ -146,165 +146,186 @@ qa-portfolio-luis
 ├── performance-testing
 ├── ci-cd
 └── ai-for-qa
+```
 
-```text
+---
+
 ## Projects
 
-## 1. Manual Testing
+### 1. Manual Testing
 
 This section includes manual test cases, bug report examples, exploratory testing notes, regression testing checklists, and structured QA evidence.
 
-## Planned content:
+Planned content:
 
-Test case examples
-Bug report examples
-Exploratory testing notes
-Regression testing checklist
-BDD-style evidence documentation
-Screenshots and supporting evidence
+- Test case examples
+- Bug report examples
+- Exploratory testing notes
+- Regression testing checklist
+- BDD-style evidence documentation
+- Screenshots and supporting evidence
 
-## 2. API Testing
+### 2. API Testing
 
 This section includes API testing examples using modern API testing practices, including positive scenarios, negative scenarios, assertions, collections, environments, and reports.
 
-## Planned content:
+Planned content:
 
-Postman collections
-Environment files
-Positive API scenarios
-Negative API scenarios
-Authentication scenarios
-JSON response validation
-API test reports
+- Postman collections
+- Environment files
+- Positive API scenarios
+- Negative API scenarios
+- Authentication scenarios
+- JSON response validation
+- API test reports
 
-## 3. JavaScript for QA
+### 3. JavaScript for QA
 
 This section includes JavaScript examples focused on QA automation, test data handling, helper functions, and automation-oriented coding practices.
 
-## Planned content:
+Planned content:
 
-JavaScript basics for QA
-Test data examples
-Helper functions
-Async/await examples
-Automation-focused practice files
+- JavaScript basics for QA
+- Test data examples
+- Helper functions
+- Async/await examples
+- Automation-focused practice files
 
-## 4. Playwright Automation
+### 4. Playwright Automation
 
 This section includes end-to-end UI automation examples using Playwright, including locators, assertions, Page Object Model, fixtures, reports, screenshots, and traces.
 
-## Planned content:
+Planned content:
 
-Playwright test examples
-Locator strategies
-Assertions
-Page Object Model
-Fixtures
-Test reports
-Screenshots and traces
+- Playwright test examples
+- Locator strategies
+- Assertions
+- Page Object Model
+- Fixtures
+- Test reports
+- Screenshots and traces
 
-## 5. Playwright with Cucumber / BDD
+### 5. Playwright with Cucumber / BDD
 
 This section includes BDD-style automated scenarios using Feature files, Given/When/Then steps, Scenario Outlines, and step definitions.
 
-## Planned content:
+Planned content:
 
-Feature files
-Step definitions
-Scenario Outlines
-BDD test evidence
-Business-readable test scenarios
-## 6. Cypress Automation
+- Feature files
+- Step definitions
+- Scenario Outlines
+- BDD test evidence
+- Business-readable test scenarios
+
+### 6. Cypress Automation
 
 This section includes Cypress automation examples, fixtures, custom commands, and comparisons between Cypress and Playwright.
 
-## Planned content:
+Planned content:
 
-Cypress test examples
-Fixtures
-Custom commands
-Cypress vs Playwright comparison
-Test execution evidence
+- Cypress test examples
+- Fixtures
+- Custom commands
+- Cypress vs Playwright comparison
+- Test execution evidence
 
-## 7. Performance Testing
+### 7. Performance Testing
 
 This section includes performance testing examples using JMeter, including test plans, thread groups, HTTP requests, assertions, summary reports, and screenshots.
 
-## Planned content:
+Planned content:
 
-JMeter test plans
-API load testing
-Thread group examples
-Response time analysis
-Throughput analysis
-Summary reports
-## 8. CI/CD
+- JMeter test plans
+- API load testing
+- Thread group examples
+- Response time analysis
+- Throughput analysis
+- Summary reports
+
+### 8. CI/CD
 
 This section includes GitHub Actions workflows to support automated test execution on push and pull requests.
 
-## Planned content:
+Planned content:
 
-GitHub Actions workflow files
-Automated test execution
-Pull request validation
-Test report artifacts
-README status badges
-## 9. AI for QA
+- GitHub Actions workflow files
+- Automated test execution
+- Pull request validation
+- Test report artifacts
+- README status badges
+
+### 9. AI for QA
 
 This section includes examples of how AI tools can support QA activities such as test case generation, BDD scenario creation, API checklist improvement, bug report writing, test documentation, and automation debugging.
 
-## Planned content:
+Planned content:
 
-AI prompt library for QA
-AI-assisted test case generation
-AI-assisted BDD scenarios
-AI-assisted bug report templates
-AI-assisted API testing checklist
-Responsible AI usage notes
-Tools and Technologies
-GitHub
-Git
-Postman
-Insomnia
-Playwright
-Cypress
-Cucumber
-JMeter
-JavaScript
-GitHub Actions
-Jira
-Bitrix
-ClickUp
-SQL
-ChatGPT
-Gemini
-GitHub Copilot
-Current Focus
+- AI prompt library for QA
+- AI-assisted test case generation
+- AI-assisted BDD scenarios
+- AI-assisted bug report templates
+- AI-assisted API testing checklist
+- Responsible AI usage notes
 
-## This portfolio is focused on strengthening and showcasing QA skills using updated tools, frameworks, and market-relevant practices, including:
+---
 
-GitHub for QA workflows
-API testing
-JavaScript for QA automation
-Playwright automation
-Cucumber / BDD
-GitHub Actions and CI/CD
-Cypress automation
-JMeter performance testing
-AI-assisted QA
-Professional QA documentation
+## Tools and Technologies
+
+- GitHub
+- Git
+- Postman
+- Insomnia
+- Playwright
+- Cypress
+- Cucumber
+- JMeter
+- JavaScript
+- GitHub Actions
+- Jira
+- Bitrix
+- ClickUp
+- SQL
+- ChatGPT
+- Gemini
+- GitHub Copilot
+
+---
+
+## Current Focus
+
+This portfolio is focused on strengthening and showcasing QA skills using updated tools, frameworks, and market-relevant practices, including:
+
+1. GitHub for QA workflows
+2. API testing
+3. JavaScript for QA automation
+4. Playwright automation
+5. Cucumber / BDD
+6. GitHub Actions and CI/CD
+7. Cypress automation
+8. JMeter performance testing
+9. AI-assisted QA
+10. Professional QA documentation
+
+---
 
 ## Education
-Master of Science in Computational Science - Laurentian University, Canada
-Bachelor of Computer Science / Information Technology - Universidade Paulista, Brazil
-Technical Diploma in Logistics - ETEC, Brazil
-Technical Diploma in Business - ETEC, Brazil
+
+- Master of Science in Computational Science - Laurentian University, Canada
+- Bachelor of Computer Science / Information Technology - Universidade Paulista, Brazil
+- Technical Diploma in Logistics - ETEC, Brazil
+- Technical Diploma in Business - ETEC, Brazil
+
+---
 
 ## Career Objective
+
 My objective is to continue growing as a Software QA professional by combining my experience in manual testing, API validation, automation support, IT support, business operations, and documentation with modern QA engineering practices.
 
 This portfolio reflects my commitment to continuous improvement, practical learning, and professional growth in Software Quality Assurance.
 
+---
+
 ## Contact
-LinkedIn: https://www.linkedin.com/in/luishesantos
-GitHub: https://github.com/luishsantos100
+
+- LinkedIn: https://www.linkedin.com/in/luishesantos
+- GitHub: https://github.com/luishsantos100
