@@ -10,12 +10,12 @@ Validate that users can log in successfully with valid credentials and that the 
 
 ## Test Environment
 
-- Application: Demo E-commerce Website
+- Application: SauceDemo
 - Environment: QA / Demo
 - Browser: Chrome
 - Device: Desktop
-- Tester: Luis Henrique Santos
-- Date: YYYY-MM-DD
+- Tester: Luis Henrique dos Santos
+- Date: 2026-05-20
 
 ---
 
@@ -57,17 +57,17 @@ The user should be successfully authenticated and redirected to the home page.
 
 ### Actual Result
 
-To be completed during test execution.
+The user was successfully authenticated and redirected to the SauceDemo inventory page after entering valid credentials.
 
 ### Status
 
-Ready for Execution
+Passed
 
 ### Evidence
 
-- Screenshot: To be added
-- Video: To be added
-- Notes: To be added
+- Screenshot: https://jam.dev/c/3755a9de-b048-44cb-9c21-ff65929bb819 https://jam.dev/c/f236ce4e-40e8-4337-91cb-649ae1bddd16
+- Video: https://jam.dev/c/30027615-21a5-4dd9-9999-8a499bcc976d
+- Notes: No issues were found during this test execution.
 
 ---
 
