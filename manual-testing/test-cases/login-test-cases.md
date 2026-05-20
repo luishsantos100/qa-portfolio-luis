@@ -105,9 +105,9 @@ Ready for Execution
 
 ### Evidence
 
-- Screenshot: To be added
-- Video: To be added
-- Notes: To be added
+- Screenshot: https://jam.dev/c/c7146f3e-1170-4aab-8e2f-bb7c43f1178d
+- Video: https://jam.dev/c/a633d387-af36-4de8-975f-df6597da6cb9
+- Notes: No issues were found during this test execution.
 
 ---
 
