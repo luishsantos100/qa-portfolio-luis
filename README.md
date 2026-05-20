@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Software Quality Assurance Analyst with 18+ years of professional experience across Software QA, IT Support, administrative operations, customer service, documentation, process control, and data accuracy.
+I am a Software Quality Assurance Engineer with 18+ years of professional experience across Software QA, IT Support, administrative operations, customer service, documentation, process control, and data accuracy.
 
 Over the last several years, I have worked in Quality Assurance with manual testing, functional testing, regression testing, exploratory testing, acceptance testing, black-box testing, API/backend validation, SQL data validation, defect tracking, test documentation, Agile/Scrum collaboration, and automation support.
 
